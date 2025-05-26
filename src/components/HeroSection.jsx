@@ -14,7 +14,7 @@ function HeroSection() {
           className="profile-image"
         />
         <h1>Hi, I'm Shadrack!</h1>
-        <p>A passionate IT enthusiast from the code_tribe clan, dedicated to building innovative solutions.</p>
+        <p>A professional IT project manager</p>
         <p>I specialize in crafting robust and user-friendly applications.</p>
       </div>
     </section>
