@@ -10,8 +10,8 @@ function Contact() {
       <p className="contact-email">Email: <a href="mailto:code.tribe@yahoo.com">code.tribe@yahoo.com</a></p>
       <div className="social-links">
         {/* Replace with your actual LinkedIn and GitHub profiles */}
-        <a href="https://linkedin.com/in/your_linkedin_profile" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-        <a href="https://github.com/your_github_profile" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a href="https://linkedin.com/in/osike-shadrack/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <a href="https://github.com/osike" target="_blank" rel="noopener noreferrer">GitHub</a>
       </div>
     </section>
   );
