@@ -10,15 +10,15 @@ function Journey() {
         <h3>Education</h3>
         <p><strong>University of Mombasa</strong></p>
         <p>Bachelors in Information Technology (I.T)</p>
-        <p><em>Expected Graduation: e.g., May 2026</em></p>
+        <p><em>Expected Graduation: May 2026</em></p>
       </div>
 
       <div className="journey-item">
         <h3>Certifications</h3>
         <ul>
           <li>Cisco Certified Network Associate (CCNA)</li>
-          <li>Cybersecurity Foundations (e.g., CompTIA Security+, Certified Ethical Hacker) </li>
-          <li>Python Programming (e.g., Python Institute PCAP/PCEP) </li>
+          <li>Cybersecurity Foundations (CompTIA Security+, Certified Ethical Hacker) </li>
+          <li>Python Programming (Python Institute PCAP/PCEP) </li>
         </ul>
       </div>
 
