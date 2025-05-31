@@ -5,7 +5,7 @@ function Header() {
   const handleDownloadCV = () => {
     // Vite recommends putting static assets in the 'public' folder.
     // The path here is relative to the 'public' folder.
-    const cvPath = '/assets/Shadrack_CV.pdf';
+    const cvPath = '././shadrack_cv.pdf';
     window.open(cvPath, '_blank');
   };
 
