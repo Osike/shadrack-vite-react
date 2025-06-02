@@ -8,7 +8,7 @@ const projectsData = [
     title: 'E-commerce Website',
     description: 'Developed a full-stack e-commerce platform with secure payment integration.',
     technologies: ['React', 'Node.js', 'Express', 'MongoDB'],
-    link: 'https://github.com/shadrack_dev/ecommerce-app', // Example Link
+    link: 'https://github.com/osike', // Example Link
   },
   {
     id: 2,
